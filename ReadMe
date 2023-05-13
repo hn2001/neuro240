@@ -1,0 +1,13 @@
+# Codebase for Neuro 240 Final Project - Hari Narayanan
+
+File descriptions:
+
+1.) SplitGenerator.ipynb contains code that divides the dataset of 3500 songs into chunks of 
+ten seconds and labels each chunk by the name of the ragam of the song from which the chunk was cut.
+
+2.) spectrogramgenerator.ipynb converts each chunk into a mel spectrogram and stores the mel spectrogram
+in a pickle file with a corresponding ragam label, grouped into pickle files by ragam name.
+
+3.) RagamModel.ipynb contains the code for the various iterations of the CNN considered for this task.
+Contains data loading, model architecture, training, validation, and testing code, as well as associated
+visualizations for each of these stages. 
