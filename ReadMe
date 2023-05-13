@@ -11,3 +11,11 @@ in a pickle file with a corresponding ragam label, grouped into pickle files by 
 3.) RagamModel.ipynb contains the code for the various iterations of the CNN considered for this task.
 Contains data loading, model architecture, training, validation, and testing code, as well as associated
 visualizations for each of these stages. 
+
+Link to Data:
+
+Training Data Link (~3500 songs across ~140 ragams, scraped from internet): https://drive.google.com/drive/folders/11M4ux4PGVVN7PJibqslDxrY_HVFwzNAB?usp=share_link 
+
+Audio Splits Data Link: https://drive.google.com/drive/folders/166YpzWud5NmaPQqfBLw_9ZHr4K5nPV4k?usp=share_link 
+
+10-Ragam Splits Melspectrograms Data Link: https://drive.google.com/drive/folders/13eH5EqbEsex9OR5pBEDI1IIqZh4NNczZ?usp=share_link 
